@@ -3,6 +3,7 @@ body {
   font-family: "Times New Roman";
   margin: 0;
   background: rgb(84, 18, 110);
+  color: rgb(17, 17, 17);
 }
 #nav-bar {
   background-color: rgba(71, 2, 99);
