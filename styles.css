@@ -90,10 +90,10 @@ section li {
   font-size: 1.1em;
 }
 section a {
-  color: rgb(15, 15, 15);
+  color: rgb(0, 0, 0);
 }
 section p {
-  color: rgb(15, 15, 15);
+  color: rgb(0, 0, 0);
   font-size: 1.1em;
 }
 section h2 {
@@ -102,7 +102,7 @@ section h2 {
 #footer {
   background: rgb(173, 124, 236);
   box-shadow: 0px 0px 30px rgb(173, 124, 236);
-  color: whitesmoke;
+  color: rgb(252, 255, 221);
   text-align: center;
   padding: 20px 0;
   position: relative;
