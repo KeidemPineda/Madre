@@ -1,0 +1,117 @@
+body {
+  font-size: 18px;
+  font-family: "Times New Roman";
+  margin: 0;
+  background: rgb(84, 18, 110);
+}
+#nav-bar {
+  background-color: rgba(71, 2, 99);
+  display: flex;
+  font-size: 1.2em;
+}
+#nav-bar ul {
+  width: auto;
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+  top: 0;
+  margin: auto;
+  padding: 15px;
+  box-shadow: 0 4px 20px rgb(173, 124, 236);
+  border-radius: 10px;
+}
+#nav-bar li {
+  padding: 0;
+  margin: 0;
+}
+#nav-bar a {
+  display: flex;
+  text-decoration: none;
+  padding: 5px 15px;
+  color: rgb(255, 218, 161);
+  transition: all;
+}
+#nav-bar a:hover {
+  background-color: rgb(120, 70, 185);
+  box-shadow: 0px 4px 8px rgba(31, 30, 30, 0.2);
+  transform: scale(1.1);
+  border-radius: 5px;
+}
+#Felicitaciones {
+  margin-top: 30px;
+  color: rgba(48, 9, 48, 0.712);
+  background-color: rgb(173, 124, 236);
+  text-align: center;
+  height: 80vh;
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 25px;
+}
+#Felicitaciones h1 {
+  font-size: 2.5em;
+  font-style: italic;
+}
+#Felicitaciones h2 {
+  font-size: 2em;
+  font-style: italic;
+}
+span {
+  color: rgb(255, 218, 161);
+}
+section {
+  padding: 10px 20px;
+  margin: auto;
+  max-width: 80%;
+  background-color: rgb(173, 124, 236);
+  color: rgba(48, 9, 48, 0.712);
+  border-radius: 25px;
+  text-align: center;
+  margin-bottom: 40px;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 30px rgb(146, 95, 212);
+}
+section img {
+  width: 80%;
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  border-radius: 25px;
+}
+section ul {
+  color: rgb(255, 218, 161);
+}
+section li {
+  color: rgb(255, 218, 161);
+  text-align: left;
+  font-size: 1.1em;
+}
+section a {
+  color: rgb(0, 0, 0);
+}
+section p {
+  color: rgb(0, 0, 0);
+  font-size: 1.1em;
+}
+section h2 {
+  font-size: 1.8em;
+}
+#footer {
+  background: rgb(173, 124, 236);
+  box-shadow: 0px 0px 30px rgb(173, 124, 236);
+  color: whitesmoke;
+  text-align: center;
+  padding: 20px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  margin-top: 30px;
+  border-radius: 10px 10px 0px 0px;
+}
+#footer p {
+  font-size: 1.1em;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
