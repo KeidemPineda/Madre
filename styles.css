@@ -89,10 +89,10 @@ section li {
   font-size: 1.1em;
 }
 section a {
-  color: rgb(48, 9, 48, 0.712);
+  color: rgba(247, 245, 240, 0.712);
 }
 section p {
-  color: rgb(48, 9, 48, 0.712);
+  color: rgba(248, 221, 180, 0.712);
   font-size: 1.1em;
 }
 section h2 {
